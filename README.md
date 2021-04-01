@@ -1,6 +1,7 @@
 Library Management Software Application Requirements Document
 
 
+
 •	A software application will be developed to support library operations.
 
 •	There will be a librarian in the library who will manage the processes with the members and whose work will be supported by the system.
